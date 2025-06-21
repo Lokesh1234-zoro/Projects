@@ -1,0 +1,16 @@
+body{
+ display: flex;
+ justify-content: center;
+ align-items: center;   
+ background-color: aqua;
+ 
+}
+.time{
+    border: 1px solid black;
+    display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 200px;
+ height: 100px;
+ 
+}
