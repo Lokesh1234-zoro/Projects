@@ -1,0 +1,42 @@
+body{
+  background-color: darkgoldenrod;
+  
+
+}
+.luffy{
+   display: inline-block;
+  margin: 20px;
+   height: 200px;
+  width: 200px;
+  border-radius: 20px;
+  
+ background-color:aqua;
+
+}
+.luffy:hover{
+  background-color: chartreuse;
+}
+
+#img{
+  height: 100px;
+  width: 100px;
+  margin-top: 15px;
+  margin-left: 20px;
+  border-radius: 20px;
+  
+ 
+ 
+ }
+ #text{
+  text-align: center;
+  margin-top: -3px;
+ }
+ #b1
+ {
+  
+  margin-left: 20px;
+ }
+ .luffy>p{
+  margin-left: 20px;
+  margin-top: -2px;
+ }
